@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|e:\\academics\\study\\mit\\second year\\iv sem\\dbs\\dbs lab\\project\\github\\app\\joblistings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:joblistings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|e:\\academics\\study\\mit\\second year\\iv sem\\dbs\\dbs lab\\project\\github\\app\\notifs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:notifs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|e:\\academics\\study\\mit\\second year\\iv sem\\dbs\\dbs lab\\project\\github\\app\\jobpostings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:jobpostings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|e:\\academics\\study\\mit\\second year\\iv sem\\dbs\\dbs lab\\project\\github\\app\\employerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:employerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|e:\\academics\\study\\mit\\second year\\iv sem\\dbs\\dbs lab\\project\\github\\app\\applicanthomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:applicanthomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|e:\\academics\\study\\mit\\second year\\iv sem\\dbs\\dbs lab\\project\\github\\app\\jobmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:jobmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|e:\\academics\\study\\mit\\second year\\iv sem\\dbs\\dbs lab\\project\\github\\app\\companymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:companymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|e:\\academics\\study\\mit\\second year\\iv sem\\dbs\\dbs lab\\project\\github\\app\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|e:\\academics\\study\\mit\\second year\\iv sem\\dbs\\dbs lab\\project\\github\\app\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployerHomePage.cs [Design]",
+              "DocumentMoniker": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\EmployerHomePage.cs",
+              "RelativeDocumentMoniker": "EmployerHomePage.cs",
+              "ToolTip": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\EmployerHomePage.cs [Design]",
+              "RelativeToolTip": "EmployerHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:18:00.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobPostings.cs [Design]",
+              "DocumentMoniker": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\JobPostings.cs",
+              "RelativeDocumentMoniker": "JobPostings.cs",
+              "ToolTip": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\JobPostings.cs [Design]",
+              "RelativeToolTip": "JobPostings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:17:41.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notifs.cs [Design]",
+              "DocumentMoniker": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\Notifs.cs",
+              "RelativeDocumentMoniker": "Notifs.cs",
+              "ToolTip": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\Notifs.cs [Design]",
+              "RelativeToolTip": "Notifs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:17:30.937Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobListings.cs [Design]",
+              "DocumentMoniker": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\JobListings.cs",
+              "RelativeDocumentMoniker": "JobListings.cs",
+              "ToolTip": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\JobListings.cs [Design]",
+              "RelativeToolTip": "JobListings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:17:16.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicantHomePage.cs [Design]",
+              "DocumentMoniker": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\ApplicantHomePage.cs",
+              "RelativeDocumentMoniker": "ApplicantHomePage.cs",
+              "ToolTip": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\ApplicantHomePage.cs [Design]",
+              "RelativeToolTip": "ApplicantHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:16:59.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobModule.cs [Design]",
+              "DocumentMoniker": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\JobModule.cs",
+              "RelativeDocumentMoniker": "JobModule.cs",
+              "ToolTip": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\JobModule.cs [Design]",
+              "RelativeToolTip": "JobModule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:16:48.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompanyModule.cs [Design]",
+              "DocumentMoniker": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\CompanyModule.cs",
+              "RelativeDocumentMoniker": "CompanyModule.cs",
+              "ToolTip": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\CompanyModule.cs [Design]",
+              "RelativeToolTip": "CompanyModule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:16:35.468Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\SignUp.cs [Design]",
+              "RelativeToolTip": "SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:16:18.145Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignIn.cs [Design]",
+              "DocumentMoniker": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\SignIn.cs",
+              "RelativeDocumentMoniker": "SignIn.cs",
+              "ToolTip": "E:\\Academics\\Study\\MIT\\Second Year\\IV Sem\\DBS\\DBS Lab\\Project\\GitHub\\App\\SignIn.cs [Design]",
+              "RelativeToolTip": "SignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:15:10.576Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
