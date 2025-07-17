@@ -6,7 +6,7 @@ CareerConnect is a database-driven job portal designed to streamline job applica
 
 ---
 
-## 🚀 Features
+## 💡 Features
 
 - Role-based user management (job seekers and employers)
 - Job posting and editing functionalities
@@ -29,7 +29,7 @@ CareerConnect is a database-driven job portal designed to streamline job applica
 | **Hiring Metrics**   | Tracks and analyzes trends like success rates and employer responsiveness                        | `HiringMetrics(MetricID, JobID, ApplicationsReceived, AvgResponseTime, SuccessRate)` |
 | **Notifications**    | Sends alerts to users regarding jobs and application updates                                     | `Notifications(NotificationID, UserID, Message, DateSent)` |
 | **Interviews**       | Schedules interviews and monitors interview statuses                                             | `Interviews(InterviewID, ApplicationID, DateTime, Status)` |
-| **Recruitment Flow** | Tracks applications through stages—from applied to hired                                         | `RecruitmentProcess(JobID, ApplicationsReceived, Shortlisted, Interviewed, OffersMade, Hired)` |
+| **Recruitment Flow** | Tracks applications through stages, from applied to hired                                         | `RecruitmentProcess(JobID, ApplicationsReceived, Shortlisted, Interviewed, OffersMade, Hired)` |
 
 ---
 
