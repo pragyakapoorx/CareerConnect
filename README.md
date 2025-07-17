@@ -53,9 +53,7 @@ Visual glimpses of the CareerConnect interface and workflows.
 
 | Feature                           | Screenshot |
 |----------------------------------|------------|
-| 👤 **User Sign In** | ![Sign In](https://github.com/user-attachments/assets/254991cb-ff59-4d7a-863e-352624ebd174) |
-| 👤 **User Sign UP** | ![Sign Up](https://github.com/user-attachments/assets/b9f7e8ae-97e4-4068-8fd4-b00490a5bf82) |
-
-
+| 👤 **User Sign In** | ![Sign In](https://github.com/user-attachments/assets/b9f7e8ae-97e4-4068-8fd4-b00490a5bf82) |
+| 👤 **User Sign Up** | ![Sign Up](https://github.com/user-attachments/assets/254991cb-ff59-4d7a-863e-352624ebd174) |
 
 ---
