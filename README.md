@@ -35,8 +35,8 @@ CareerConnect is a database-driven job portal designed to streamline job applica
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** Visual Studio
-- **Backend:** Oracle Database XE
+- **Front-end:** Visual Studio
+- **Back-end:** Oracle Database XE
 - **Languages:** C#, SQL
 
 ---
