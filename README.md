@@ -46,16 +46,15 @@ CareerConnect is a database-driven job portal designed to streamline job applica
 This system employs SQL-driven analysis to provide actionable hiring recommendations, surface application trends, and measure employer responsiveness. It supports scalable recruitment operations with transparent metrics.
 
 ---
----
 
-## 🖼️ Screenshots
+## 🖼️ Screengrabs
 
 Visual glimpses of the CareerConnect interface and workflows.
 
 | Feature                           | Screenshot |
 |----------------------------------|------------|
-| 👤 **User Sign In** | ![Sign In](<img width="1567" height="957" alt="SignIn" src="https://github.com/user-attachments/assets/1664c1f6-de0a-4b4b-b962-d7291d7c9efd" />) |
-| 👤 **User Sign UP** | ![Sign Up](<img width="1443" height="747" alt="SignUp" src="https://github.com/user-attachments/assets/592d62a2-4a0f-470e-b618-6bc20a7ba9fe" />) |
+| 👤 **User Sign In** | ![Sign In](https://github.com/user-attachments/assets/254991cb-ff59-4d7a-863e-352624ebd174) |
+| 👤 **User Sign UP** | ![Sign Up](https://github.com/user-attachments/assets/b9f7e8ae-97e4-4068-8fd4-b00490a5bf82) |
 
 
 
